@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Lodestone.Core/Lodestone.Core.csproj" />
+    <Project Path="src/Lodestone.Desktop/Lodestone.Desktop.csproj" />
+    <Project Path="src/Lodestone.Minecraft/Lodestone.Minecraft.csproj" />
+    <Project Path="src/Lodestone.Packages/Lodestone.Packages.csproj" />
+    <Project Path="src/Lodestone.Server/Lodestone.Server.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Lodestone.Core.Tests/Lodestone.Core.Tests.csproj" />
+    <Project Path="tests/Lodestone.Minecraft.Tests/Lodestone.Minecraft.Tests.csproj" />
+    <Project Path="tests/Lodestone.Packages.Tests/Lodestone.Packages.Tests.csproj" />
+  </Folder>
+</Solution>
